@@ -9,4 +9,4 @@ function twoSum($nums, $target) {
         return [];
     }
 
-print_r(twoSum([2,7,4,5],9));
+print_r(twoSum([3,2,4],6));
